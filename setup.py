@@ -1,7 +1,10 @@
-from setuptools import setup
-
+from distutils.core import setup
 setup(
-     name='simNum',   # This is the name of your PyPI-package
-     version='0.2',                          # Update the version number for new releases
-     scripts=['simNum']                  # The name of your scipt, and also the command you'll be using for calling it
-     )
+  name = 'simNumPackage',
+  packages = ['simNumPackage'], 
+  version = '1.0',
+  description = 'A number simulator package for Normal, Poisson or Binomial distributions.',
+  author = 'Adam Round',
+  author_email = 'adamround@hotmail.com',
+  url = 'https://github.com/Roundy123/simNum.git',
+)
