@@ -14,7 +14,7 @@ print(d)
 
 ## Installation
 
-This package can be installed using pip by simply running the line of code below in your terminal. Note you may need to add sudo to the beggining depending on your permission setup.
+This package can be installed using pip by simply running the line of code below in your terminal. Note you may need to add sudo to the beggining depending on your permissions setup.
 
 ```
 pip install simNum
