@@ -5,7 +5,7 @@ simNum is a number simulator for Normal, Poisson or Binomial distributions.
 ## Code Example
 
 ```
-imort simNum
+import simNum
 
 d = simNum.simDist(10,'normal')
 
