@@ -52,7 +52,7 @@ __simNum.simDist__ _(samples,distribution,mean=0,stddev=1,lamb=1,trials=None,pro
 
     This parameter is only used for the poisson distribution. Expectation of interval, should be >= 0. A sequence of expectation intervals must be broadcastable over the requested size.
 
-* __trials__ _: str_
+* __trials__ _: int_
 
     This parameter is only used for the binomial distribution. Parameter of the distribution, >= 0. Floats are also accepted, but they will be truncated to integers.
     
