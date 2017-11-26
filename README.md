@@ -29,7 +29,7 @@ Alternatively if you'd like to install manually you can follow the steps below.
 1. Download the package [here](https://pypi.python.org/pypi/simNum/2.1)
 2. Unzip the file
 3. Change directory in your terminal to the directory containing the downloaded setup.py file
-4. Type `python setup.py install` and hit enter
+4. Type `python setup.py install` and hit press return
 
 ## Documentation
 
